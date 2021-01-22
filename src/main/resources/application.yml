@@ -1,0 +1,13 @@
+# 应用名称
+spring:
+  application:
+    name: mq
+
+rabbitmq:
+  virtual-host: / #我自己的虚拟主机
+  port: 5672
+  host: 192.168.0.55 #我自己的虚拟机地址
+  username: tangjing
+  password: tangjing666 #我自己的rabbitmq的密码
+
+
